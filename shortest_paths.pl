@@ -83,6 +83,7 @@ sub _find_shortest_paths_breadth {
 		if ($neighbour eq $end) {
 
 		    if ($nbHop < $minHop or not defined $minHop) {
+
 			$minHop = $nbHop;
 		    }
 
