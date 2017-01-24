@@ -4,8 +4,8 @@
 
 
 Given a source string and a destination string write a program to display sequence of strings to travel from source to destination. Rules for traversing:
-1. You can only change one character at a time
-2. Any resulting word has to be a valid word from dictionary
+* You can only change one character at a time
+* Any resulting word has to be a valid word from dictionary
 
 Example: Given source word CAT and destination word DOG , one of the valid sequence would be
 
